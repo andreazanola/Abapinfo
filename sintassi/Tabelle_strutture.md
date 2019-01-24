@@ -10,9 +10,9 @@ DATA : it_example TYPE TABLE OF ty_example, " Istanzio una tabella di tipo ty_ex
        wa_example TYPE ty_example.          " Istanzio una struttura di tipo ty_example
  
 ```
-> E' possibile usare 3 metodi diversi per estrarre i dati dalle tabelle:
+E' possibile usare 3 metodi diversi per estrarre i dati dalle tabelle:
 
-    - Utilizzando la struttura come riga della tabella
+- Utilizzando la struttura come riga della tabella
 ```
 loop at it_example into wa_example.
     write:/ wa_example-matnr .
@@ -20,14 +20,14 @@ loop at it_example into wa_example.
 endloop.
 ```
 
-    - Utilizzando i field-symbols come puntatori.
+- Utilizzando i field-symbols come puntatori.
 ```
 loop at it_example assigning field-symbol(<fs_example>).
     write:/ <fs_example>-matnr .
     write:/ <fs_example>-mtart .
 endloop.
 ```
-    - Utilizzando i field-symbols come puntatori quando una tabella è dinamica.
+- Utilizzando i field-symbols come puntatori quando una tabella è dinamica.
 ```
 FIELD-SYMBOLS: <fs_matnr> TYPE any,
                <fs_mtart> TYPE any. " o data
