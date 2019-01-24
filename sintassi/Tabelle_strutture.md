@@ -27,7 +27,7 @@ loop at it_example assigning field-symbol(<fs_example>).
     write:/ <fs_example>-mtart .
 endloop.
 ```
-- Utilizzando i field-symbols come puntatori quando una tabella è dinamica.
+- Utilizzando i field-symbols come puntatori quando una tabella è dinamica (non esiste quinsi una struttura fissa ma viene generata da funzioni).
 ```
 FIELD-SYMBOLS: <fs_matnr> TYPE any,
                <fs_mtart> TYPE any. " o data
