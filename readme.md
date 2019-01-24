@@ -1,7 +1,6 @@
 <h1>ABAP</h1>
 <b><h2>Indice</h2></b>
 
-<b>Capitolo 1</b>
 >- Sintassi
 >    - Data
 >    - Parameters
@@ -14,7 +13,6 @@
 >    - Classi
 >    - Alv
 
-<b>Capitolo 3</b>
 >- Transazioni
 >    - MB52
 >    - MD04
@@ -27,6 +25,4 @@
 >    - SM34
 >    - SE38
 
-<b>Capitolo 4</b>
->- Tabelle dizionario
   
