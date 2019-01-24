@@ -14,9 +14,6 @@
 >    - Classi
 >    - Alv
 
-<b>Capitolo 2</b>
->- Definizioni
-
 <b>Capitolo 3</b>
 >- Transazioni
 >    - MB52
