@@ -1,4 +1,7 @@
+> Per poter ottenere la struttura di una tabella interna (nome e tipo delle colonne), è possibile utilizzare delle classi che aiutano l'estrazione di queste informazioni.
+
 ```abap
+
 DATA : it_mara TYPE STANDARD TABLE OF mara  WITH HEADER LINE.
  
 DATA : it_detail   TYPE abap_compdescr_tab,
