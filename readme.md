@@ -14,16 +14,6 @@
 >    - Alv
 
 >- Transazioni
->    - MB52
->    - MD04
->    - MD12
->    - MD13
->    - MSC3N
->    - SE11
->    - SE16 / SE16N
->    - SM30
->    - SM34
->    - SE38
 
 >- Tabelle
   
