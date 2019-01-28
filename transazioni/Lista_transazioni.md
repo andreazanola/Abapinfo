@@ -25,3 +25,5 @@
 **SM34:** Inserire range in una tabella a dizionario
 
 **SE38:** Creare, modificare, visualizzare report
+
+**SE93:** Creare, modificare transazione per report
