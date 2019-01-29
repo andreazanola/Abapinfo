@@ -2,15 +2,17 @@
 
 **ICON:** Lista icone presenti a sistema
 
-**MB52**
+**IDOC:** Lista Idoc contenuti nel sistema
 
-**MD04**
+**MB52:** Visualizzare stock magazzino per materiale
 
-**MD12**
+**MD04:** Lista stock/fabbisogni attuale 
 
-**MD13**
+**MD12:** Modifica ordine pianificato
 
-**MSC3N**
+**MD13:** Visualizzazione ordine pianificato
+
+**MSC3N:** Visualizzare dati partita
 
 **SE11:** Visualizzare e creare tabelle, strutture e tipo dati a dizionario
 
@@ -27,3 +29,5 @@
 **SE38:** Creare, modificare, visualizzare report
 
 **SE93:** Creare, modificare transazione per report
+
+**WE30:** Idoc
