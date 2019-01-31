@@ -14,11 +14,19 @@
 
 **MSC3N:** Visualizzare dati partita
 
+**NACE:** Visualizzare tipologia messaggi
+
 **SE11:** Visualizzare e creare tabelle, strutture e tipo dati a dizionario
 
 **SE16 / SE16N:** Vedere i dati contenuti in una tabella a dizionario
 
 **SE24:** Creare, modificare, visualizzare classi
+
+**SE37:** Function module
+
+**SE38:** Creare, modificare, visualizzare report
+
+**SE93:** Creare, modificare transazione per report
 
 **SFP:** Creare, modificare, visualizzare modulo e interfaccia di PDF Forms.
 
@@ -26,8 +34,10 @@
 
 **SM34:** Inserire range in una tabella a dizionario
 
-**SE38:** Creare, modificare, visualizzare report
+**VL02n:** Modificare consegna
 
-**SE93:** Creare, modificare transazione per report
+**VL03n:** Visualizzare consegna
+
+**WE05:** Lista Idoc
 
 **WE30:** Idoc
