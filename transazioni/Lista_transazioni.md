@@ -16,6 +16,8 @@
 
 **NACE:** Visualizzare tipologia messaggi
 
+**SE10:** Rilasciare CR
+
 **SE11:** Visualizzare e creare tabelle, strutture e tipo dati a dizionario
 
 **SE16 / SE16N:** Vedere i dati contenuti in una tabella a dizionario
@@ -33,6 +35,8 @@
 **SM30:** Inserire valori singoli in una tabella a dizionario
 
 **SM34:** Inserire range in una tabella a dizionario
+
+**STMS:** Trasportare CR (dopo se10)
 
 **VL02n:** Modificare consegna
 
