@@ -46,4 +46,4 @@
 
 **WE30:** Idoc
 
-**WE30:** Ordini di vendita
+**VA03:** Ordini di vendita
