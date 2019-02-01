@@ -1,6 +1,6 @@
 
 **Select single:** estraggo solo un valore
- ```
+ ```abap
 SELECT SINGLE campo1, campo2 
   FROM table INTO variable
   WHERE condizione.
@@ -11,7 +11,7 @@ SELECT SINGLE campo1, campo2
 ```
 
 **Select count:** contare le righe di una select
-```
+```abap
 SELECT COUNT(*) 
   FROM table INTO variable
   WHERE condizione.
@@ -22,7 +22,7 @@ SELECT COUNT( DISTINT nomecampo )
 ```
 
 **Select into table:** estraggo più valori
-```
+```abap
 SELECT campo1 campo2 
   FROM table INTO TABLE tab
   WHERE condizione.
