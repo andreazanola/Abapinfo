@@ -32,6 +32,10 @@
 
 **SFP:** Creare, modificare, visualizzare modulo e interfaccia di PDF Forms.
 
+**SLG0:** Modifica view 'oggetti'
+
+**SM04:** Sessioni utente sistema
+
 **SM30:** Inserire valori singoli in una tabella a dizionario
 
 **SM34:** Inserire range in una tabella a dizionario
