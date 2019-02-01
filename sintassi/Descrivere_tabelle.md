@@ -1,4 +1,4 @@
-> Per poter ottenere la struttura di una tabella interna (nome e tipo delle colonne), è possibile utilizzare delle classi che aiutano l'estrazione di queste informazioni.
+Per poter ottenere la struttura di una tabella interna (nome e tipo delle colonne), è possibile utilizzare delle classi che aiutano l'estrazione di queste informazioni.
 
 ```abap
 
