@@ -6,5 +6,4 @@ Appunti sul linguaggio di programmazione ABAP.
 
 >- Transazioni
 
->- Tabelle
   
