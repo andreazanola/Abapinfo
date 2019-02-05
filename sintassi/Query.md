@@ -39,6 +39,8 @@ SELECT campo1 campo2
  SELECT campo1, campo2
   FROM table INTO TABLE @DATA(tab)
   WHERE condizione.
+  
+*  Nella condizione del WHERE è utilizzabile anche  '<> @( VALUE #( ) )' per indicare un valore vuoto 
 ```
 **ATTENZIONE:**
 > Per le query esistono due sintassi: la sintassi vecchia che non richiede la virgola tra i campi da selezionare, la nuova sintassi si. 
