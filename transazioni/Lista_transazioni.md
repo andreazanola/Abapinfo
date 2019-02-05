@@ -20,6 +20,8 @@
 
 **SE11:** Visualizzare e creare tabelle, strutture e tipo dati a dizionario
 
+**SE14:**  Rompere tabelle dizionario
+
 **SE16 / SE16N:** Vedere i dati contenuti in una tabella a dizionario
 
 **SE24:** Creare, modificare, visualizzare classi
@@ -51,3 +53,4 @@
 **WE30:** Idoc
 
 **VA03:** Ordini di vendita
+
