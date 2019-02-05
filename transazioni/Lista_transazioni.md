@@ -1,3 +1,5 @@
+**AL11:** Directory con file
+
 **CT04:** Visualizzare caratteristiche
 
 **ICON:** Lista icone presenti a sistema
