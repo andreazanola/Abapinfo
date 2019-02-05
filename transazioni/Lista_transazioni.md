@@ -22,6 +22,8 @@
 
 **SE16 / SE16N:** Vedere i dati contenuti in una tabella a dizionario
 
+**SE18:** Visualizzare, modificare implementazione BADI 
+
 **SE24:** Creare, modificare, visualizzare classi
 
 **SE37:** Function module
