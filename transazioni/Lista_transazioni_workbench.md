@@ -6,16 +6,6 @@
 
 **IDOC:** Lista Idoc contenuti nel sistema
 
-**MB52:** Visualizzare stock magazzino per materiale
-
-**MD04:** Lista stock/fabbisogni attuale 
-
-**MD12:** Modifica ordine pianificato
-
-**MD13:** Visualizzazione ordine pianificato
-
-**MSC3N:** Visualizzare dati partita
-
 **NACE:** Visualizzare tipologia messaggi
 
 **SE10:** Rilasciare CR
@@ -36,6 +26,8 @@
 
 **SE93:** Creare, modificare transazione per report
 
+**CMOD** Modifica user exit (estensioni programmi standard)
+
 **SFP:** Creare, modificare, visualizzare modulo e interfaccia di PDF Forms.
 
 **SLG0:** Modifica view 'oggetti'
@@ -48,13 +40,8 @@
 
 **STMS:** Trasportare CR (dopo se10)
 
-**VL02n:** Modificare consegna
-
-**VL03n:** Visualizzare consegna
-
 **WE05:** Lista Idoc
 
 **WE30:** Idoc
 
-**VA03:** Ordini di vendita
 
