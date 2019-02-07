@@ -46,3 +46,4 @@
 
 **SWI1** Workflow eseguiti
 
+**SWUS_WITH_REFERENCE** Forzare task workflow (utile per debuggare)
