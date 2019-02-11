@@ -14,3 +14,5 @@
 **MD13:** Visualizzazione ordine pianificato
 
 **MSC3N:** Visualizzare dati partita
+
+**CO02:** Ordini di produzione
