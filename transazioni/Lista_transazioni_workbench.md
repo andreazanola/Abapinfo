@@ -28,6 +28,8 @@
 
 **SE38:** Creare, modificare, visualizzare report
 
+**SE91:**  Mantenimento messaggi
+
 **SE93:** Creare, modificare transazione per report
 
 **CMOD** Modifica user exit (estensioni programmi standard)
