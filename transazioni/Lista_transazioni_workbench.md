@@ -8,9 +8,9 @@
 
 **NACE:** Visualizzare tipologia messaggi
 
-**SCR3:**
+**SCR3:** Configurazione impresa
 
-**SCR20:**
+**SCR20:** Attivazione configurazione impresa
 
 **SE10:** Rilasciare CR
 
