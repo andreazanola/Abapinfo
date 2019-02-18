@@ -8,6 +8,10 @@
 
 **NACE:** Visualizzare tipologia messaggi
 
+**SCR3:**
+
+**SCR20:**
+
 **SE10:** Rilasciare CR
 
 **SE11:** Visualizzare e creare tabelle, strutture e tipo dati a dizionario
