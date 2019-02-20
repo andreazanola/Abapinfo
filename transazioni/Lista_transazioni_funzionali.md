@@ -3,7 +3,11 @@
 
 **VL02n:** Modificare consegna
 
-**VL03n:** Visualizzare consegna
+**VL03N:** Visualizzare consegna
+
+**VL22:** Modifica offerta
+
+**VL23:** Visualizza offerta
 
 **MB52:** Visualizzare stock magazzino per materiale
 
