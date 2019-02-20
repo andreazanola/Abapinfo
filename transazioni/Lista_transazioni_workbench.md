@@ -2,6 +2,8 @@
 
 **CT04:** Visualizzare caratteristiche
 
+**CMOD** Modifica user exit (estensioni programmi standard)
+
 **ICON:** Lista icone presenti a sistema
 
 **IDOC:** Lista Idoc contenuti nel sistema
@@ -31,8 +33,6 @@
 **SE91:**  Mantenimento messaggi
 
 **SE93:** Creare, modificare transazione per report
-
-**CMOD** Modifica user exit (estensioni programmi standard)
 
 **SFP:** Creare, modificare, visualizzare modulo e interfaccia di PDF Forms.
 
