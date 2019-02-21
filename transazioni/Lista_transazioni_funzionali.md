@@ -1,9 +1,6 @@
+**BP:** Business partner
 
-**VA03:** Ordini di vendita
-
-**VL02n:** Modificare consegna
-
-**VL03n:** Visualizzare consegna
+**CO02:** Ordini di produzione
 
 **MB52:** Visualizzare stock magazzino per materiale
 
@@ -15,4 +12,14 @@
 
 **MSC3N:** Visualizzare dati partita
 
-**CO02:** Ordini di produzione
+
+**VA03:** Ordini di vendita
+
+**VL02n:** Modificare consegna
+
+**VL03N:** Visualizzare consegna
+
+**VL22:** Modifica offerta
+
+**VL23:** Visualizza offerta
+

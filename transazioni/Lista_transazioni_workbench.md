@@ -2,11 +2,17 @@
 
 **CT04:** Visualizzare caratteristiche
 
+**CMOD** Modifica user exit (estensioni programmi standard)
+
 **ICON:** Lista icone presenti a sistema
 
 **IDOC:** Lista Idoc contenuti nel sistema
 
 **NACE:** Visualizzare tipologia messaggi
+
+**SCR3:** Configurazione impresa
+
+**SCR20:** Attivazione configurazione impresa
 
 **SE10:** Rilasciare CR
 
@@ -24,9 +30,9 @@
 
 **SE38:** Creare, modificare, visualizzare report
 
-**SE93:** Creare, modificare transazione per report
+**SE91:**  Mantenimento messaggi
 
-**CMOD** Modifica user exit (estensioni programmi standard)
+**SE93:** Creare, modificare transazione per report
 
 **SFP:** Creare, modificare, visualizzare modulo e interfaccia di PDF Forms.
 
