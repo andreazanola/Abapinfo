@@ -44,6 +44,8 @@
 
 **WE30:** Idoc
 
+**SWDD** Creazione workflow
+
 **SWI1** Workflow eseguiti
 
 **SWUS_WITH_REFERENCE** Forzare task workflow (utile per debuggare)
