@@ -2,6 +2,8 @@
 
 **CO02:** Ordini di produzione
 
+**EDOC_RESUBMIT:** Creare ed inviare fatture
+
 **MB52:** Visualizzare stock magazzino per materiale
 
 **MD04:** Lista stock/fabbisogni attuale 
