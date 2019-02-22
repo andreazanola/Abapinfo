@@ -2,7 +2,7 @@
 
 **CO02:** Ordini di produzione
 
-**M21N:** Ordini di acquisto
+**ME21N:** Ordini di acquisto
 
 **MB52:** Visualizzare stock magazzino per materiale
 
