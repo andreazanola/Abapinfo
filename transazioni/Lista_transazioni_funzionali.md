@@ -2,8 +2,6 @@
 
 **CO02:** Ordini di produzione
 
-**ME21N:** Ordini di acquisto
-
 **MB52:** Visualizzare stock magazzino per materiale
 
 **MD04:** Lista stock/fabbisogni attuale 
@@ -12,9 +10,13 @@
 
 **MD13:** Visualizzazione ordine pianificato
 
+**ME21N:** Ordini di acquisto
+
 **MSC3N:** Visualizzare dati partita
 
 **VA03:** Ordini di vendita
+
+**VF03:** Vis. doc. fatturazione
 
 **VL02n:** Modificare consegna
 
