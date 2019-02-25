@@ -16,6 +16,8 @@
 
 **MSC3N:** Visualizzare dati partita
 
+**SO03:** 
+
 **VA03:** Ordini di vendita
 
 **VF03:** Vis. doc. fatturazione
