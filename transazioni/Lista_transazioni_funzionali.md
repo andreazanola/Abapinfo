@@ -16,6 +16,8 @@
 
 **MSC3N:** Visualizzare dati partita
 
+**SE78:** Caricare logo azienda
+
 **SO03:** 
 
 **VA03:** Ordini di vendita
