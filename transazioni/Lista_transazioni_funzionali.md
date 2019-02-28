@@ -18,7 +18,15 @@
 
 **SE78:** Caricare logo azienda
 
-**SO03:** 
+**SO03:** Business workplace
+
+**SWEL:** Vedere passi trace
+
+**SWELS:** Avviare / Fermare Trace
+
+**SWE2:** Modificare collegamenti eventi (wkf / task)
+
+**SWI1:** Selezione workitem
 
 **SWUS_WITH_REFERENCE:** Debuggare workflow / task
 
