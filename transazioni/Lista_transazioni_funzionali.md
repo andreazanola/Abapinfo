@@ -20,6 +20,8 @@
 
 **SO03:** Business workplace
 
+**ST22:** Runtime error
+
 **SWEL:** Vedere passi trace
 
 **SWELS:** Avviare / Fermare Trace
