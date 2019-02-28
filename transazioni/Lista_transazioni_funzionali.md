@@ -20,6 +20,8 @@
 
 **SO03:** 
 
+**SWUS_WITH_REFERENCE:** Debuggare workflow / task
+
 **VA03:** Ordini di vendita
 
 **VF03:** Vis. doc. fatturazione
