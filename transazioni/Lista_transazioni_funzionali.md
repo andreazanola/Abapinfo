@@ -2,9 +2,9 @@
 
 **CO02:** Ordini di produzione
 
-**CG3Y:**
+**CG3Y:** Permette di scaricare una CR dal server al client
 
-**CG3Z:**
+**CG3Z:** Permette di caricare una CR dal server al client
 
 **EDOC_RESUBMIT:** Creare ed inviare fatture
 
