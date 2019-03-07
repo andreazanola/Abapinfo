@@ -50,3 +50,5 @@ SELECT campo1 campo2
 > Differenza tra **INTO TABLE** e **INTO CORRESPONDING FIELD OF TABLE**. Il primo estrae dei dati e li mette nell'ordine di estrazione 
 nella tabella di destinazione (quindi la tabella deve avere la struttura ordinata e con i nomi corretti), mentre nel secondo caso la 
 query inserisce i valori estratti dal database nella colonna che corrisponde al dato estratto, se la colonna viene trovata.
+
+**CASE WHEN:** https://blogs.sap.com/2013/10/05/useful-sql-with-sap-hana/
