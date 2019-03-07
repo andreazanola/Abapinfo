@@ -2,6 +2,10 @@
 
 **CO02:** Ordini di produzione
 
+**CG3Y:**
+
+**CG3Z:**
+
 **EDOC_RESUBMIT:** Creare ed inviare fatture
 
 **MB52:** Visualizzare stock magazzino per materiale
