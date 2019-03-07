@@ -24,6 +24,8 @@
 
 **SE18:** Visualizzare, modificare implementazione BADI 
 
+**SE19:** Badi-builder creare o modificare implementazioni
+
 **SE24:** Creare, modificare, visualizzare classi
 
 **SE37:** Function module
