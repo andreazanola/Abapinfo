@@ -2,7 +2,7 @@
 
 Appunti sul linguaggio di programmazione ABAP. 
 
->- Sintassi
+>- Sintassi, definizioni
 
 >- Transazioni
 
