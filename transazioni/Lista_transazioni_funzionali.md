@@ -2,7 +2,7 @@
 
 **CO02:** Ordini di produzione
 
-**CO03:** Ordini di produzione se **CO02:** non va
+**CO03:** Ordini di produzione se **CO02** non va
 
 **CG3Y:** Download files
 
