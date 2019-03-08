@@ -2,9 +2,11 @@
 
 **CO02:** Ordini di produzione
 
-**CG3Y:**
+**CO03:** Ordini di produzione se **CO02:** non va
 
-**CG3Z:**
+**CG3Y:** Download files
+
+**CG3Z:** Upload files
 
 **EDOC_RESUBMIT:** Creare ed inviare fatture
 
