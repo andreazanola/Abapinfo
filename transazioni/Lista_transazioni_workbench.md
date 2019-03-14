@@ -24,6 +24,8 @@
 
 **SE18:** Visualizzare, modificare implementazione BADI 
 
+**SE19:** Badi-builder creare o modificare implementazioni
+
 **SE24:** Creare, modificare, visualizzare classi
 
 **SE37:** Function module
@@ -53,7 +55,5 @@
 **SWDD** Creazione workflow
 
 **SWI1** Workflow eseguiti
-
-**SWUS_WITH_REFERENCE** Forzare task workflow (utile per debuggare)
 
 **SOST** Visualizzare coda Email
