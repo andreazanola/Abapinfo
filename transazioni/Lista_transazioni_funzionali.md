@@ -2,6 +2,8 @@
 
 **CO02:** Ordini di produzione
 
+**Cl02:** Classificazioni
+
 **MB52:** Visualizzare stock magazzino per materiale
 
 **MD04:** Lista stock/fabbisogni attuale 
