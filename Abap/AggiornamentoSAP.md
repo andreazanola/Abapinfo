@@ -1,5 +1,5 @@
 <b>SPAU E SPDD</b>
-> Sono transazioni utilizzate per un aggiornamento pesante di pacchetti sap. Servono per aggiornare sia oggetti dictionary che programmi
+Sono transazioni utilizzate per un aggiornamento pesante di pacchetti sap. Servono per aggiornare sia oggetti dictionary che programmi
   attraverso la funzione di reset a standard o di modifica manuale, attraverso il quale si adatta l'oggetto modificato affinchè possa essere 
   consistente e non dia problemi.
 
@@ -29,3 +29,5 @@ Nella spau esistono 5/6 sezioni:
 - Fare sempre solo una CR per ogni transazione
 - tenere traccia delle cose fatte tramite un file in cui si segnano le modifiche
 - aggiornare in inglese con client 000
+
+<i>Vedere link esterni per approfondimenti</i>
