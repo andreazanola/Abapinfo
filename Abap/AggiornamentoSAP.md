@@ -11,18 +11,18 @@ e decidere se mantenerli o resettarli. Nel caso delle note di solito si resetta.
 E' una transazione utilizzata per controllare la consistenza del codice custom. Come la spdd si può decidere se resettarlo o mantenerlo.
 Nella spau esistono 5/6 sezioni: 
 
-- Notes: Ti mostra tutte le note e ti chiede cosa vuoi farne -> selezioni tutto -> prepare notes (aggiorna tutte le note) 
+  - Notes: Ti mostra tutte le note e ti chiede cosa vuoi farne -> selezioni tutto -> prepare notes (aggiorna tutte le note) 
           ->se non funziona prepare notes seleziona tutte e cliccare su 'compute adjustment mode' 
 
-- with assistant: cose modificate con assistente -> se la modifica non è chiara bisogna CHIEDERE. 
+  - with assistant: cose modificate con assistente -> se la modifica non è chiara bisogna CHIEDERE. 
                   Una volta ripristinato o applicate le modifiche devono essere attivati i cambiamenti. 
                   Reset se sono cambiamenti inutili (tipo testi delle note). Documentazione di solito si resetta.
 
-- without assistan
+  - without assistan
 
-- deletion: delete modification log a quasi tutto (vedere le custom)
+  - deletion: delete modification log a quasi tutto (vedere le custom)
 
-- translations: farle passare tutte
+  - translations: farle passare tutte
 
 **NB**
 - Esiste la SPAU_ENH per il mantenimento degli enanchement
