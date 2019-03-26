@@ -12,6 +12,8 @@ Appunti sul linguaggio di programmazione ABAP.
     - 06 Spiegazione base del componente Dynpro
     - 07 Spiegazione base del componente ALV
     - 08 Spiegazione basilare funzionamento PDFForm 
+    - 09 Spiegazione basilare funzionamento Smartforms
+    - Aggiornamento SAP: SPAU e SPDD
 - Transazioni
     - 01 Transazioni utilizzate dai funzionali per lavorare, modificare, creare dati (documenti, fatture, ecc...)
     - 02 Transazioni workbench utilizzate per interagire con il codice abap o con delle impostazioni di sistema
