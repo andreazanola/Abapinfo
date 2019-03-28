@@ -13,6 +13,7 @@ Appunti sul linguaggio di programmazione ABAP.
     - 07 Spiegazione base del componente ALV
     - 08 Spiegazione basilare funzionamento PDFForm 
     - 09 Spiegazione basilare funzionamento Smartforms
+    - 10 Spiegazione basilare creazione tabelle DB e relative view
     - Aggiornamento SAP: SPAU e SPDD
 - Transazioni
     - 01 Transazioni utilizzate dai funzionali per lavorare, modificare, creare dati (documenti, fatture, ecc...)
