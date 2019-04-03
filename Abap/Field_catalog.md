@@ -1,4 +1,4 @@
-Il fieldcatalog è la tabella che contiene le proprietà dei dati che verranno stampati tramite la ALV. In questo caso il fieldcatalog viene creato dinamicamente, utilizzando il descrittore di tabelle. Siccome prende i testi dei dati dalla tabella dd04t è possibile che non tutti i campi vengano valorizzati (oppure con la presenza di più campi dello stesso tipo). In quel caso sono da inserire a mano. 
+Il field catalog è la tabella che contiene le proprietà dei dati che verranno stampati tramite la ALV. In questo caso il field catalog viene creato dinamicamente, utilizzando il descrittore di tabelle. Siccome prende i testi dei dati dalla tabella dd04t è possibile che non tutti i campi vengano valorizzati (oppure con la presenza di più campi dello stesso tipo). In quel caso sono da inserire a mano. 
 
 ```abap
   TYPES: BEGIN OF ty_coldescr,
