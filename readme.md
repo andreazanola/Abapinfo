@@ -1,6 +1,6 @@
 <h1>ABAP</h1>
 
-Appunti sul linguaggio di programmazione ABAP. 
+Appunti sul linguaggio di programmazione ABAP.
 
 - Abap
     - 00 Link esterni a guide utili
@@ -11,12 +11,10 @@ Appunti sul linguaggio di programmazione ABAP.
     - 05 Sintassi basilare delle query in abap
     - 06 Spiegazione base del componente Dynpro
     - 07 Spiegazione base del componente ALV
-    - 08 Spiegazione basilare funzionamento PDFForm 
+    - 08 Spiegazione basilare funzionamento PDFForm
     - 09 Spiegazione basilare funzionamento Smartforms
     - 10 Spiegazione basilare creazione tabelle DB e relative view
     - Aggiornamento SAP: SPAU e SPDD
 - Transazioni
-    - 01 Transazioni utilizzate dai funzionali per lavorare, modificare, creare dati (documenti, fatture, ecc...)
-    - 02 Transazioni workbench utilizzate per interagire con il codice abap o con delle impostazioni di sistema
-
-  
+    - 01 Transazioni per i vari moduli
+    - 02 Transazioni BASIS
