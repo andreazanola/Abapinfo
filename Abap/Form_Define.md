@@ -23,4 +23,14 @@ OPERATION N2 - N1.
 ```
 
 - FORM / PERFORM </br>
-...
+```abap
+PERFORM OPERATION CHANGING n1 n2 tot.
+
+FORM OPERATION CHANGING  lv_n1 TYPE i
+                         lv_n2 TYPE i
+                         lv_tot TYPE i.
+                         
+ lv_tot = lv_n1+ lv_n2.
+                         
+ENDFORM.
+```
