@@ -13,7 +13,8 @@ Questi file devono essere salvati con l'estensione (idsistema).
 <br><br>
 <b>Upload CR</b><br>
 Lanciare la transazione <i>CG3Z</i>.<br>
-Caricare i file R(numerocr).(idsistema) e K(numerocr).(idsistema) rispettivamente nelle cartelle data e cofiles del sistema d'arrivo 
+Caricare i file R(numerocr).(idsistema) e K(numerocr).(idsistema) rispettivamente nelle cartelle data e cofiles del sistema d'arrivo.
+Una volta importati i file lanciare la transazione <i>STMS</i>, selezionare il sistema di dev e selezionare <i>Opzioni > Altre richieste >  Aggiungi</i>. Cercare la propria CR che sarà nominata (idsistema di provenienza)(K)(numerocr di provenienza). Selezionarla e importarla.
 <br><br>
 > NB<br>
 I percorsi non sono gli stessi per ogni sistema. Cercare la cartella <i>TRANS</i> tramite la transazione <i>AL11</i> per risalire alle 
