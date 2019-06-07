@@ -14,6 +14,7 @@ Appunti sul linguaggio di programmazione ABAP.
     - 08 Spiegazione basilare funzionamento PDFForm
     - 09 Spiegazione basilare funzionamento Smartforms
     - 10 Spiegazione basilare creazione tabelle DB e relative view
+    - 11 Utilizzo della multiobj (Reg)
     - Aggiornamento SAP: SPAU e SPDD
 - Transazioni
     - 01 Transazioni per i vari moduli
