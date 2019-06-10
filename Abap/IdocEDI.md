@@ -11,8 +11,6 @@ Selezionare il flag ISO per le unità di misura.
 <br>
 <br>
 Per configurarlo: set realase da sm20.
-We81: aggiungere per un messaggio la nostra estensione.
-we82: definire per un partner gli idoc di ingresso e uscita.
 <br>
 <br>
 Tramite le user exit aggiungere i campi all'idoc
