@@ -1,4 +1,4 @@
-<h1>EDI</h1>
+<h1>Idoc / EDI</h1>
 
 <br>
 Per estendere un idoc si parte da un tipo base 
@@ -31,4 +31,7 @@ Oltre ai dati interni (EDI) ci sono dati esterni**, popolati per ogni segmento d
 <br>
 Gli idoc possiedono degli stati di elaborazione. Questi stati possono essere visti tramite la transazione we47.
 
-
+<b>Ampliare un Idoc</b>
+Per ampliare un Idoc è necessario creare un nuovo segmento tramite la transazione <i>WE31</i>.
+Una volta creato il segmento è necessario andare in <i>WE30</i> per creare un Idoc con riferimento ad un tipo base. Una volta creato aggiungere il segmento creato precedentemente. 
+E' poi possibile collegare l'idoc ad un messaggio tramite la <i>WE82</i> ed ad una FM tramite la transazione <i>WE57</i>. Scrivere infine il codice in una exit o nella function creata tramite le transazioni <i>WE41 / WE42</i>. 
