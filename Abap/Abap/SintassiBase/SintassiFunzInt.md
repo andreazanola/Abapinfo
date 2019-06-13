@@ -33,3 +33,7 @@ BINARY SEARCH
 MODIFY 
 
 %_parameter_%_APP_%-TEXT = "Matnr": Visualizzare questo parametro input solo per alcune condizioni
+
+
+https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-US/abapcall_transformation.htm
+
