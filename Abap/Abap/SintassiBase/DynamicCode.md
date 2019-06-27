@@ -13,4 +13,4 @@ APPEND: 'REPORT TEST' TO LT_CODE,
 INSERT REPORT 'TEST' FROM LT_CODE.
 ```
 <br><br><br>
-<i>Vedere link esterni per approfondimanto</i>
+<i>Vedere link esterni per approfondimento</i>
