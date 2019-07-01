@@ -28,3 +28,5 @@ DATA(lv_text) =  REDUCE string( INIT init_text TYPE string
                                FOR ls_text IN lt_text
                                NEXT init_text = |{ init_text } { ls_text-tdline }|  ) .
 ```
+
+Esiste un'alternativa alla read_text ovvero tramite estrazione da db ( <i>Vedere link esterni</i>).
